@@ -1,12 +1,10 @@
 # Remove-Tool-Benchmark-PS
 
-A simple action to test out the performance of Remove Tool across different systems.
+A simple action to test out the performance of the Remove Tool across different systems.
 
-Usage:
-Due to Photoshop limitations, some steps require to be set up manually.
+Usage: Due to limitations in Photoshop, some steps need to be set up manually.
 
-1. Select the remove tool from the UI
-2. Set the brush size to 600
-3. Make sure to have Info panel opened and timing turned on from the panel options.
-4. Run the action and note the final time.
-5. Repeat the action free times and calculate the average time.
+    1. Select the Remove Tool from the User Interface.
+    2. Set the Remove Tool brush size to 600 from the toolbar.
+    3. Make sure the Info panel is opened and that timing is turned on in the panel options.
+    4. Run the action 3 times while writing down individual results then calculate the average time.
